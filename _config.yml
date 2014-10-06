@@ -1,0 +1,11 @@
+name: "More books"
+description: "Information about proposed textbook regulations in South Africa"
+
+url: http://localhost:4000
+baseurl: /morebooks
+
+paginate: 10
+
+markdown: kramdown
+permalink: pretty
+highlighter: pygments
