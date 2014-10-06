@@ -43,7 +43,7 @@ Arthur Attwell: [Crunch time for educational publishers' (Thought Leader)](http:
 
 Associate Professor Rob Sieborger: [submission as public comment on 'one book per subject per grade' (PDF)](downloads/20141006_sieborger-comment.pdf)
 
-Publisher's Association of South Africa public submission (link coming soon)
+[Publisher's Association of South Africa submission as public comment (PDF)](downloads/20141006_pasa-official-submission.pdf)
 
 ## Contact
 

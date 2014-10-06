@@ -3,6 +3,7 @@ description: "Information about proposed textbook regulations in South Africa"
 
 url: http://localhost:4000
 baseurl: /morebooks
+liveurl: http://morebooks.co.za
 
 paginate: 10
 
