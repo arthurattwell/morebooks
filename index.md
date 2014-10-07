@@ -39,11 +39,14 @@ This is a collection of links to public information about the DBE's proposed pol
 
 ### Public comment
 
-Arthur Attwell: [Crunch time for educational publishers' (Thought Leader)](http://www.thoughtleader.co.za/arthurattwell/2014/09/22/crunch-time-for-educational-publishers/). [Also published here](http://arthurattwell.com/2014/09/09/crunch-time-for-south-african-publishing/).
+Arthur Attwell: 
+
+*	[Crunch time for educational publishers' (Thought Leader)](http://www.thoughtleader.co.za/arthurattwell/2014/09/22/crunch-time-for-educational-publishers/). [Also published here](http://arthurattwell.com/2014/09/09/crunch-time-for-south-african-publishing/).
+*	[submission as public comment, including petition motivations (PDF)](downloads/20141007_submission-on-dbe-draft-policy.pdf) and [almost 1000 signatories (PDF)](downloads/20141007_submission-on-dbe-draft-policy_signatories.pdf) to [this petition](https://www.change.org/p/minister-of-basic-education-angie-motshekga-don-t-prescribe-only-one-textbook-for-every-south-african-child).
 
 Associate Professor Rob Sieborger: [submission as public comment on 'one book per subject per grade' (PDF)](downloads/20141006_sieborger-comment.pdf)
 
-[Publisher's Association of South Africa submission as public comment (PDF)](downloads/20141006_pasa-official-submission.pdf)
+Publisher's Association of South Africa: [submission as public comment (PDF)](downloads/20141006_pasa-official-submission.pdf)
 
 ## Contact
 
