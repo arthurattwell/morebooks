@@ -48,6 +48,8 @@ Associate Professor Rob Sieborger: [submission as public comment on 'one book pe
 
 Publisher's Association of South Africa: [submission as public comment (PDF)](downloads/20141006_pasa-official-submission.pdf)
 
+International Publishers Association: [submission as public comment (PDF)](downloads/20141008_ipa-submission-on-ltsm-procurement-policy.pdf)
+
 ## Contact
 
 This information is coordinated by [Arthur Attwell](http://arthurattwell.com) as a contribution to an active citizenry on books and education. Mail [support@morebooks.co.za](support@morebooks.co.za).

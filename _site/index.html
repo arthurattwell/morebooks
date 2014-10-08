@@ -7,6 +7,9 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" type="text/css" href="/css/normalize.css" />
 	<link rel="stylesheet" type="text/css" href="/css/screen.css" />
+
+	<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 	
 	<!-- for Google -->
 	<meta name="description" content="Information about proposed textbook regulations in South Africa" />
@@ -23,17 +26,6 @@
 	<meta name="twitter:title" content="More books" />
 	<meta name="twitter:description" content="" />
 	<meta name="twitter:image" content="http://morebooks.co.za/images/open-graph-facebook.jpg" />
-	
-	<!--Google Analytics-->
-	<script>
-	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-	  ga('create', 'UA-27798626-3', 'auto');
-	  ga('send', 'pageview');
-	</script>
 	
 </head>
 <body>
@@ -116,6 +108,8 @@
 
 <p>Publisher’s Association of South Africa: <a href="downloads/20141006_pasa-official-submission.pdf">submission as public comment (PDF)</a></p>
 
+<p>International Publishers Association: <a href="downloads/20141008_ipa-submission-on-ltsm-procurement-policy.pdf">submission as public comment (PDF)</a></p>
+
 <h2 id="contact">Contact</h2>
 
 <p>This information is coordinated by <a href="http://arthurattwell.com">Arthur Attwell</a> as a contribution to an active citizenry on books and education. Mail <a href="support@morebooks.co.za">support@morebooks.co.za</a>.</p>
@@ -128,5 +122,32 @@
 	
 	<div id="footer">
 	</div><!--#footer-->
+	
+	<!--Linkify headers thanks to Ben Balter http://ben.balter.com/2014/03/13/pages-anchor-links/ -->
+	<script>
+	$(function() {
+	  return $("h2, h3, h4, h5, h6").each(function(i, el) {
+		var $el, icon, id;
+		$el = $(el);
+		id = $el.attr('id');
+		icon = '<i class="fa fa-link"></i>';
+		if (id) {
+		  return $el.prepend($("<a />").addClass("header-link").attr("href", "#" + id).html(icon));
+		}
+	  });
+	});
+	</script>
+	
+	<!--Google Analytics-->
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-27798626-3', 'auto');
+	  ga('send', 'pageview');
+	</script>
+	
 </body>
 </html>

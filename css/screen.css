@@ -56,6 +56,7 @@ h1, h2, h3, h3, h4, h5, h6 {
 	clear: both;
 	color: #666;
 	line-height: 90%;
+	margin-left: -1em; /* works with linkified headers */
 }
 p, ul, ol {
 	max-width: 720px;
@@ -76,6 +77,9 @@ blockquote p {
 li blockquote {
 	margin: 1em 0;
 }
+
+/* -------------- LINKS */
+
 a img { 
 	border: none;
 }
@@ -125,13 +129,23 @@ a.link-button-light:hover {
 	color: white;
 }
 
-/* -------------- SHOW/HIDE script */
+/* This code is courtesy Ben Balter http://ben.balter.com/2014/03/13/pages-anchor-links/ adapted by Arthur Attwell */
+.header-link {
+  position: relative; /* works with heading margins */
+  left: -0.5em;
+  opacity: 0;
 
-.more {
-	display: none;
-	border: 1px solid gainsboro;
-	padding: 0.5em;
-	margin: 0 0 1em 0;
+  -webkit-transition: opacity 0.2s ease-in-out 0.1s;
+  -moz-transition: opacity 0.2s ease-in-out 0.1s;
+  -ms-transition: opacity 0.2s ease-in-out 0.1s;
+}
+
+h2:hover .header-link,
+h3:hover .header-link,
+h4:hover .header-link,
+h5:hover .header-link,
+h6:hover .header-link {
+  opacity: 1;
 }
 
 /* -------------- IMAGES */
