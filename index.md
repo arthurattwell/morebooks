@@ -50,6 +50,10 @@ Publisher's Association of South Africa: [submission as public comment (PDF)](do
 
 International Publishers Association: [submission as public comment (PDF)](downloads/20141008_ipa-submission-on-ltsm-procurement-policy.pdf)
 
+### Press coverage
+
+Mail & Guardian: ["Single textbook option slammed" (Bongani Nkosi)](http://mg.co.za/article/2014-10-10-single-textbook-option-slammed)
+
 ## Contact
 
 This information is coordinated by [Arthur Attwell](http://arthurattwell.com) as a contribution to an active citizenry on books and education. Mail [support@morebooks.co.za](support@morebooks.co.za).
