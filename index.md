@@ -5,7 +5,7 @@ layout: default
 
 This website provides public information on the South African Department of Basic Education's proposed National Policy for the Provisioning and Management of Learning and Teaching Support Material for Grade R–12, with an emphasis on clause 7.7.1 proposing one book per subject per grade.
 
-> Public submissions on this policy are due by Wednesday 8 October 2014. They must be sent to [ltsmdraftpolicy@dbe.gov.za](mailto:ltsmdraftpolicy@dbe.gov.za). Ideally, clearly marked to correspond with headings in the draft policy.
+> Public submissions on this policy were due to [ltsmdraftpolicy@dbe.gov.za](mailto:ltsmdraftpolicy@dbe.gov.za) by 8 October 2014. You can still participate in growing public discussion on the issue, and sign [our petition](https://www.change.org/p/minister-of-basic-education-angie-motshekga-don-t-prescribe-only-one-textbook-for-every-south-african-child).
 
 ## The danger of a one-textbook policy
 
