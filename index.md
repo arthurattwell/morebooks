@@ -52,7 +52,7 @@ International Publishers Association: [submission as public comment (PDF)](downl
 
 ### Press coverage
 
-Mail & Guardian: ["Single textbook option slammed" (Bongani Nkosi)](http://mg.co.za/article/2014-10-10-single-textbook-option-slammed)
+Mail & Guardian: ["Single textbook option slammed" (Bongani Nkosi)](http://mg.co.za/article/2014-10-10-single-textbook-option-slammed) ([Screenshot version](downloads/20141010_mailandguardian-article.png).)
 
 ## Contact
 
