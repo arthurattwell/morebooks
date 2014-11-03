@@ -1,9 +1,13 @@
 ---
 title: Home
-layout: default
+layout: index
 ---
 
-This website provides public information on the South African Department of Basic Education's proposed National Policy for the Provisioning and Management of Learning and Teaching Support Material for Grade R–12, with an emphasis on clause 7.7.1 proposing one book per subject per grade.
+# What is More Books?
+
+More Books is a public campaign to encourage a greater abundance and diversity of books in South African schools. It is driven by private individuals and supporting organisations.
+
+Our current focus is the Department of Basic Education's proposed 'National Policy for the Provisioning and Management of Learning and Teaching Support Material for Grade R–12,' with an emphasis on clause 7.7.1 proposing one book per subject per grade.
 
 > Public submissions on this policy were due to [ltsmdraftpolicy@dbe.gov.za](mailto:ltsmdraftpolicy@dbe.gov.za) by 8 October 2014. You can still participate in growing public discussion on the issue, and sign [our petition](https://www.change.org/p/minister-of-basic-education-angie-motshekga-don-t-prescribe-only-one-textbook-for-every-south-african-child).
 
@@ -22,40 +26,3 @@ We believe this will do great harm, and are asking her to change course.
 We are asking the Minister to consider other ways to reduce costs and increase access, and embrace a model that allows a diverse range of textbooks to thrive in our schools. We must all work harder to give our children textbooks, but we should never limit their education by limiting diversity.
 
 [Sign the petition](https://www.change.org/p/minister-of-basic-education-angie-motshekga-don-t-prescribe-only-one-textbook-for-every-south-african-child){:.link-button}
-
-## Background information
-
-This is a collection of links to public information about the DBE's proposed policy on one-textbook per subject per learner. Mail [support@morebooks.co.za](mailto:support@morebooks.co.za) to submit more background information.
-
-### Official documents
-
-[National Policy for the Provisioning and Management of Learning and Teaching Support Material for Grade R–12 (PDF)](downloads/20140905_draft-ltsm-policy-for-public-comment.pdf)
-
-[Government Gazette announcement inviting public responses (PDF)](downloads/20140904_gazette-on-ltsm-draft-policy-for-public-comment.pdf)
-
-[The Minister's budget speech announcing the policy](http://www.education.gov.za/Newsroom/Speeches/tabid/298/ctl/Details/mid/2907/ItemID/3972/Default.aspx) (released in advance of the draft policy document being released). [PDF version here](downloads/20140715_ministers-budget-speech-2014.pdf).
-
-[Media Statement by the Minister of Basic Education, 22 September 2014](http://www.education.gov.za/Newsroom/MediaReleases/tabid/347/ctl/Details/mid/2929/ItemID/4037/Default.aspx), stating: "The meeting was presented with a plan to most efficiently ensure that every child has a text book in every subject per grade. There was broad consensus that one core text book will be identified for each subject per grade and that a transversal tender be negotiated to maximise on economies of scale." [PDF version here](downloads/20140922_ministers-media-statement.pdf).
-
-### Public comment
-
-Arthur Attwell: 
-
-*	[Crunch time for educational publishers' (Thought Leader)](http://www.thoughtleader.co.za/arthurattwell/2014/09/22/crunch-time-for-educational-publishers/). [Also published here](http://arthurattwell.com/2014/09/09/crunch-time-for-south-african-publishing/).
-*	[submission as public comment, including petition motivations (PDF)](downloads/20141007_submission-on-dbe-draft-policy.pdf) and [almost 1000 signatories (PDF)](downloads/20141007_submission-on-dbe-draft-policy_signatories.pdf) to [this petition](https://www.change.org/p/minister-of-basic-education-angie-motshekga-don-t-prescribe-only-one-textbook-for-every-south-african-child).
-
-Associate Professor Rob Sieborger: [submission as public comment on 'one book per subject per grade' (PDF)](downloads/20141006_sieborger-comment.pdf)
-
-Publisher's Association of South Africa: [submission as public comment (PDF)](downloads/20141006_pasa-official-submission.pdf)
-
-International Publishers Association: [submission as public comment (PDF)](downloads/20141008_ipa-submission-on-ltsm-procurement-policy.pdf)
-
-### Press coverage
-
-Mail & Guardian: ["Single textbook option slammed" (Bongani Nkosi)](http://mg.co.za/article/2014-10-10-single-textbook-option-slammed) ([Screenshot version](downloads/20141010_mailandguardian-article.png).)
-
-## Contact
-
-This information is coordinated by [Arthur Attwell](http://arthurattwell.com) as a contribution to an active citizenry on books and education. Mail [support@morebooks.co.za](support@morebooks.co.za).
-
-[Image above by David de Wit for Community Eye Health, CC-BY-ND](https://www.flickr.com/photos/communityeyehealth/7186064125)

@@ -69,6 +69,7 @@ h1, h2, h3, h3, h4, h5, h6 {
 	color: #666;
 	line-height: 90%;
 	text-indent: -0.5em; /* works with linkified headers */
+	font-weight: 400;
 }
 p, ul, ol {
 	max-width: 720px;
@@ -77,6 +78,8 @@ blockquote {
 	clear: both;
 	margin: 0.5em 0 0.5em 0;
 	padding: 0.5em 1em 0.5em 1em;
+	font-family: "Crimson Text", serif;
+	font-style: italic;
 	font-size: 1.5em;
 	line-height: 120%;
 	border-left: 5px solid #ddd;
@@ -151,6 +154,7 @@ a.link-button-light:hover {
   -ms-transition: opacity 0.2s ease-in-out 0.1s;
 }
 
+h1:hover .header-link,
 h2:hover .header-link,
 h3:hover .header-link,
 h4:hover .header-link,
@@ -165,3 +169,8 @@ h6:hover .header-link {
 	padding: 8px;
 	border: 1px solid gainsboro;
 }
+
+
+/* -------------- FORMS */
+
+/* JotForm styles set in JotForm theme designer */
