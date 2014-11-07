@@ -23,6 +23,18 @@ Between elections, a citizen's power lies in writing to their representatives. W
 *	[Mrs Angie Motshekga, Minister of Basic Education](http://www.pa.org.za/person/matsie-angelina-motshekga/): <mabua.s@dbe.gov.za>
 *	[Mr Enver Surty, Deputy Minister of Basic Education](http://www.pa.org.za/person/mohamed-enver-surty/) at ANC Constituency Office (417): Moses Kotane Madikwe: <417ancpco@gmail.com>
 
+### MECs for Education
+
+*	Mr Andrek Panyaza Lesufi (Gauteng MEC for Education) <gdeinfo@gauteng.gov.za>
+*	Ms Neliswa Peggy Nkonyeni  (KwaZulu-Natal MEC for Education) <isaac.luthuli@kzndoe.gov.za>
+*	Thembisile Nwedamutswu (Limpopo MEC for Education) <Myenimb@edu.limpopo.gov.za>
+*	Debbie Schäfer (Western Cape MEC for Education) <edumin.edumin@westerncape.gov.za>
+*	Tate P. H. I. Makgoe (Free State MEC for Education) <mec@edu.fs.gov.za>
+*	Mandla Makupula (Eastern Cape MEC for Education) <nomandla.gobeni@edu.ecprov.gov.za>
+*	Grizelda Cjiekella (Northern Cape MEC for Education) <mletsoso@ncpg.gov.za>
+*	Regina Mhaule (Mpumalanga MEC for Education) <jnsibande@education.mpu.gov.za>
+*	Wendy Matsemela (North West MEC for Education) (Email address not found yet)
+
 ### National Portfolio Committee on Basic Education
 
 See a current list of committee members [on People's Assembly](http://www.pa.org.za/organisation/portfolio-committee-on-basic-education/).

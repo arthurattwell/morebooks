@@ -3,7 +3,7 @@ title: DBE LTSM policy
 layout: default
 ---
 
-# LTSM policy
+# Textbook policy
 
 The Department of Basic Education has published a draft policy on learner and teacher support materials (LTSM).
 
@@ -19,12 +19,19 @@ We have collected a range of documents and links about the proposed policy, with
 
 [Media Statement by the Minister of Basic Education, 22 September 2014](http://www.education.gov.za/Newsroom/MediaReleases/tabid/347/ctl/Details/mid/2929/ItemID/4037/Default.aspx), stating: "The meeting was presented with a plan to most efficiently ensure that every child has a text book in every subject per grade. There was broad consensus that one core text book will be identified for each subject per grade and that a transversal tender be negotiated to maximise on economies of scale." [PDF version here]({{ site.baseurl }}/downloads/20140922_ministers-media-statement.pdf).
 
+## Press coverage
+
+IOL News, 7 November 2014: ['Textbook policy "cannot benefit learners"'](http://www.iol.co.za/news/politics/textbook-policy-cannot-benefit-learners-1.1776962#.VFzU1_l2LDd) ([Screenshot version]({{ site.baseurl }}/downloads/20141107_iolnews.png))
+
+CapeTalk, 5 November 2014: [Kieno Kammies interviews Debbie Schafer, Western Cape MEC for Education](https://soundcloud.com/primediabroadcasting/textbooks-to-be-standardised-across-schools)
+
+Cape Times, 5 November 2014: ["Single textbook plan for all schools" (Francesca Villette)](http://www.iol.co.za/capetimes/single-textbook-plan-for-all-schools-1.1775476#.VFnwWPl2LDc) ([Screenshot version]({{ site.baseurl }}/downloads/20141104_cape-times-article.png))
+
+Mail & Guardian, 10 October 2014: ["Single textbook option slammed" (Bongani Nkosi)](http://mg.co.za/article/2014-10-10-single-textbook-option-slammed) ([Screenshot version]({{ site.baseurl }}/downloads/20141010_mailandguardian-article.png).)
+
 ## Public comment
 
-Arthur Attwell: 
-
-*	[Crunch time for educational publishers' (Thought Leader)](http://www.thoughtleader.co.za/arthurattwell/2014/09/22/crunch-time-for-educational-publishers/). [Also published here](http://arthurattwell.com/2014/09/09/crunch-time-for-south-african-publishing/).
-*	[Submission as public comment, including petition motivations (PDF)]({{ site.baseurl }}/downloads/20141007_submission-on-dbe-draft-policy.pdf) and [almost 1000 signatories (PDF)]({{ site.baseurl }}/downloads/20141007_submission-on-dbe-draft-policy_signatories.pdf) to [this petition](https://www.change.org/p/minister-of-basic-education-angie-motshekga-don-t-prescribe-only-one-textbook-for-every-south-african-child).
+Kate McCallum: ["More damage predicted for educational outcomes: the case against approving only one textbook" (DOC)]({{ site.baseurl }}/downloads/20141105_kate-mccallum_the-case-against-approving-only-one-textbook.doc)
 
 Associate Professor Rob Sieborger: [submission as public comment on 'one book per subject per grade' (PDF)]({{ site.baseurl }}/downloads/20141006_sieborger-comment.pdf)
 
@@ -34,8 +41,7 @@ International Publishers Association: [submission as public comment (PDF)]({{ si
 
 South African Booksellers Association: [submission as public comment (PDF)]({{ site.baseurl }}/downloads/20141006_saba-submission-on-draft-ltsm-policy.pdf)
 
-## Press coverage
+Arthur Attwell: 
 
-Cape Times 5 November 2014: ["Single textbook plan for all schools" (Francesca Villette)](http://www.iol.co.za/capetimes/single-textbook-plan-for-all-schools-1.1775476#.VFnwWPl2LDc) ([Screenshot version]({{ site.baseurl }}/downloads/20141104_cape-times-article.png))
-
-Mail & Guardian, 10 October 2014: ["Single textbook option slammed" (Bongani Nkosi)](http://mg.co.za/article/2014-10-10-single-textbook-option-slammed) ([Screenshot version]({{ site.baseurl }}/downloads/20141010_mailandguardian-article.png).)
+*	[Crunch time for educational publishers' (Thought Leader)](http://www.thoughtleader.co.za/arthurattwell/2014/09/22/crunch-time-for-educational-publishers/). [Also published here](http://arthurattwell.com/2014/09/09/crunch-time-for-south-african-publishing/) and on [BizNews.com](http://www.biznews.com/thought-leaders/2014/11/06/dbe-wants-one-textbook-per-learner-per-subject/).
+*	[Submission as public comment, including petition motivations (PDF)]({{ site.baseurl }}/downloads/20141007_submission-on-dbe-draft-policy.pdf) and [almost 1000 signatories (PDF)]({{ site.baseurl }}/downloads/20141007_submission-on-dbe-draft-policy_signatories.pdf) to [this petition](https://www.change.org/p/minister-of-basic-education-angie-motshekga-don-t-prescribe-only-one-textbook-for-every-south-african-child).
