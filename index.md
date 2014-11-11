@@ -11,6 +11,8 @@ Our current focus is the Department of Basic Education's proposed 'National Poli
 
 > The deadline for [official public submissions](mailto:ltsmdraftpolicy@dbe.gov.za) on the draft policy has passed. But you can still participate: [support the campaign on Facebook](http://facebook.com/morebks), sign [our petition](https://www.change.org/p/minister-of-basic-education-angie-motshekga-don-t-prescribe-only-one-textbook-for-every-south-african-child), or [write to a representative]({{ site.basurl }}/send-mail).
 
+You can also [write in anonymously here](/have-your-say).
+
 ## The danger of a one-textbook policy
 
 For decades, our government has tried to get textbooks to every South African schoolchild. It has been expensive and complicated, largely because of our long history of unjust education.

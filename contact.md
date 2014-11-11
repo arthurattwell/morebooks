@@ -9,6 +9,8 @@ layout: default
 
 Mail [support@morebooks.co.za](support@morebooks.co.za).
 
+Or [write in anonymously here](/have-your-say).
+
 # Supporters
 
 This site is managed by [Arthur Attwell](http://arthurattwell.com) as a contribution to an active citizenry on books and education.

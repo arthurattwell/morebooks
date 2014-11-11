@@ -21,13 +21,21 @@ We have collected a range of documents and links about the proposed policy, with
 
 ## Press coverage
 
-IOL News, 7 November 2014: ['Textbook policy "cannot benefit learners"'](http://www.iol.co.za/news/politics/textbook-policy-cannot-benefit-learners-1.1776962#.VFzU1_l2LDd) ([Screenshot version]({{ site.baseurl }}/downloads/20141107_iolnews.png))
+Die Burger, 11 Nov 2014: ['Uitgewers sterk gekant teen een handboek per vak'](http://www.netwerk24.com/nuus/2014-11-11-uitgewers-sterk-gekant-teen-een-handboek-per-vak) ([Screenshot version]({{ site.baseurl }}/downloads/20141111_die-burger-article-afrikaans.png))
 
-CapeTalk, 5 November 2014: [Kieno Kammies interviews Debbie Schafer, Western Cape MEC for Education](https://soundcloud.com/primediabroadcasting/textbooks-to-be-standardised-across-schools)
+Cape Times, 11 Nov 2014: ['Textbook idea sees ANC take us back to control days of apartheid' (Jay Heale) (JPG)]({{ site.baseurl }}/downloads/20141111_cape-times-jay-heale.jpg)
 
-Cape Times, 5 November 2014: ["Single textbook plan for all schools" (Francesca Villette)](http://www.iol.co.za/capetimes/single-textbook-plan-for-all-schools-1.1775476#.VFnwWPl2LDc) ([Screenshot version]({{ site.baseurl }}/downloads/20141104_cape-times-article.png))
+Cape Times, 10 Nov 2014: ['Textbook proposal retrogressive'](http://www.iol.co.za/capetimes/textbook-proposal-retrogressive-1.1778079#.VGD-xvl2LDc) ([Screenshot version]({{ site.baseurl }}/downloads/20141110_capetimes-kate-mccallum.png))
 
-Mail & Guardian, 10 October 2014: ["Single textbook option slammed" (Bongani Nkosi)](http://mg.co.za/article/2014-10-10-single-textbook-option-slammed) ([Screenshot version]({{ site.baseurl }}/downloads/20141010_mailandguardian-article.png).)
+702 and CapeTalk, 10 Nov 2014: ['Quereshini Naidoo talking to Kate McCallum about the DBE's proposal to have a single approved textbook per subject per learner'](https://soundcloud.com/primediabroadcasting/kate-mccallum-talking-to-quereshini-aboutthe-dept-of-basic-educations-proposal-on-textbooks-1)
+
+IOL News, 7 Nov 2014: ['Textbook policy "cannot benefit learners"'](http://www.iol.co.za/news/politics/textbook-policy-cannot-benefit-learners-1.1776962#.VFzU1_l2LDd) ([Screenshot version]({{ site.baseurl }}/downloads/20141107_iolnews.png))
+
+CapeTalk, 5 Nov 2014: [Kieno Kammies interviews Debbie Schafer, Western Cape MEC for Education](https://soundcloud.com/primediabroadcasting/textbooks-to-be-standardised-across-schools)
+
+Cape Times, 5 Nov 2014: ['Single textbook plan for all schools' (Francesca Villette)](http://www.iol.co.za/capetimes/single-textbook-plan-for-all-schools-1.1775476#.VFnwWPl2LDc) ([Screenshot version]({{ site.baseurl }}/downloads/20141104_cape-times-article.png))
+
+Mail & Guardian, 10 Oct 2014: ['Single textbook option slammed' (Bongani Nkosi)](http://mg.co.za/article/2014-10-10-single-textbook-option-slammed) ([Screenshot version]({{ site.baseurl }}/downloads/20141010_mailandguardian-article.png).)
 
 ## Public comment
 
