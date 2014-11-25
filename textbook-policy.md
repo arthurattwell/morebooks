@@ -19,6 +19,10 @@ We have collected a range of documents and links about the proposed policy, with
 
 [Media Statement by the Minister of Basic Education, 22 September 2014](http://www.education.gov.za/Newsroom/MediaReleases/tabid/347/ctl/Details/mid/2929/ItemID/4037/Default.aspx), stating: "The meeting was presented with a plan to most efficiently ensure that every child has a text book in every subject per grade. There was broad consensus that one core text book will be identified for each subject per grade and that a transversal tender be negotiated to maximise on economies of scale." [PDF version here]({{ site.baseurl }}/downloads/20140922_ministers-media-statement.pdf).
 
+## Government reaction
+
+Debbie Schäfer, Minister of Education in the Western Cape: [Media release, 'Minister Schäfer outlines why she is opposed to the current proposal of a single subject textbook'](http://wced.pgwc.gov.za/comms/press/2014/63_5nov.html) ([Screenshot version]({{ site.baseurl }}/downloads/20141105_debbie-schafer-media-release.png))
+
 ## Press coverage
 
 Die Burger, 11 Nov 2014: ['Uitgewers sterk gekant teen een handboek per vak'](http://www.netwerk24.com/nuus/2014-11-11-uitgewers-sterk-gekant-teen-een-handboek-per-vak) ([Screenshot version]({{ site.baseurl }}/downloads/20141111_die-burger-article-afrikaans.png))
@@ -48,6 +52,8 @@ Publisher's Association of South Africa: [submission as public comment (PDF)]({{
 International Publishers Association: [submission as public comment (PDF)]({{ site.baseurl }}/downloads/20141008_ipa-submission-on-ltsm-procurement-policy.pdf)
 
 South African Booksellers Association: [submission as public comment (PDF)]({{ site.baseurl }}/downloads/20141006_saba-submission-on-draft-ltsm-policy.pdf)
+
+Federation of Governing Bodies of South African Schools (FEDSAS): [submission as public comment (PDF)]({{ site.baseurl }}/downloads/20140923_fedsas-comments-on-ltsm-policy.pdf)
 
 Arthur Attwell: 
 
