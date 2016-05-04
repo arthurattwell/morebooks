@@ -5,11 +5,9 @@ layout: default
 
 # Contact
 
-[Join the campaign on Facebook](http://facebook.com/morebks).
+[Join the conversation on Facebook](http://facebook.com/morebks).
 
 Mail [support@morebooks.co.za](support@morebooks.co.za).
-
-Or [write in anonymously here](/have-your-say).
 
 # Supporters
 
